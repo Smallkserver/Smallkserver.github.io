@@ -90,7 +90,7 @@ var mycanvas = document.querySelector('#mycanvas');
         '0, 255, 255',
         '0, 0, 255',
         '139, 0, 255'
-    ]
+    ] 
     
     function drawCircles(){
         for (let i = 0; i < 6; i++) {
