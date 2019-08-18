@@ -83,9 +83,13 @@ var mycanvas = document.querySelector('#mycanvas');
     }
     
     var colorArray = [
-        '355,85,80',
-        '9,80,100',
-        '343,81,45'
+        '255, 0, 0',
+        '255, 127, 0',
+        '255, 255, 0',
+        '0, 255, 0',
+        '0, 255, 255',
+        '0, 0, 255',
+        '139, 0, 255'
     ]
     
     function drawCircles(){
