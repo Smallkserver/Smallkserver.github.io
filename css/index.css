@@ -522,7 +522,7 @@ blockquote {
   margin: 0;
   padding: 0.1rem 0.8rem;
   border-left: 0.2rem solid #000;
-  color: #6a737d;
+  color: #fff;
   background-color: #545454;
 }
 .article-container pre,
@@ -2882,7 +2882,10 @@ img:hover {
 }
 .layout_post #post a {
   text-decoration: none;
-  color: #000;
+  color: #2196f3;
+}
+.layout_post #post a:hover {
+  text-decoration: underline;
 }
 .read-mode {
   background: #faf9de;
